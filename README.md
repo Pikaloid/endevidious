@@ -1,4 +1,4 @@
-WIP - The Invidious.io website.
+Fork just in case.
 
 
 Made with [Hugo](https://gohugo.io/) and [Doks](https://getdoks.org/)
